@@ -1,0 +1,44 @@
+game_name: Adventure 2
+game_goal: Find the vinegarbbq and bring it to TimmyTarHeel.
+game_goalloc: 2
+game_goalobj: vinegarbbq
+game_start: 5
+game_xsize: 2
+game_ysize: 3
+---
+r_id:1
+r_desc: in Chicago.
+r_obj: pizza
+---
+r_id:2
+r_desc: in New York.
+r_obj: bagels
+---
+r_id:3
+r_desc: in Memphis
+r_obj: realbbq
+---
+r_id:4
+r_desc: in Chapel Hill.
+r_obj: vinegarbbq
+---
+r_id:5
+r_desc: in New Orleans
+r_obj: gumbo
+---
+r_id:6
+r_desc: in Miami
+r_obj: seafood
+r_west: 1
+---
+npc_TimmyTarHeel_loc: 2
+npc_TimmyTarHeel_1: Nice to meet you.  I'm hungry for vinegarbbq!
+npc_TimmyTarHeel_2: Can you bring me some vinegarbbq?
+---
+npc_Elvis_loc: 3
+npc_Elvis_1: Howdy!
+npc_Elvis_2: Can you believe that they put vinegar on their bbq in North Carolina?
+---
+npc_Oprah_loc: 1
+npc_Oprah_1: Chicago pizza is the best!
+npc_Oprah_2: Everyone gets a pizza!
